@@ -29,4 +29,5 @@ brew install zsh;
 #configure zsh with oh my zsh
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 sh install.sh
-
+#remember to add plugins, zsh completion and git
+#theme to use for iterm2 is brogrammer
