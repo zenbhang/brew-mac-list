@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Monocyanide Colorscheme/Monocyanide ColorScheme - Constrasted Semi.tmTheme",
+	"enable_tab_scrolling": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Gravity.sublime-theme"
+}
